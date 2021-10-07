@@ -1,2 +1,2 @@
-# iq-analytics.github.io
+# Iq-analytics.github.io
 Аналитика со смыслом
