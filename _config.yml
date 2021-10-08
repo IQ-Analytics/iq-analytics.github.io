@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+п»ї# Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
 # which you are expected to set up once and rarely edit after that. If you find
@@ -18,9 +18,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: IQ-Analytics - Аналитика со смыслом.
+title: "IQ-Analytics - РђРЅР°Р»РёС‚РёРєР° СЃРѕ СЃРјС‹СЃР»РѕРј."
 email: iq-analytics@mail.ru
-description: >- Мы вдохновлены Data Driven и Unit-экономикой и нацелены на создание работающей рекламы вашего бизнеса в интернет.
+description: "РњС‹ РІРґРѕС…РЅРѕРІР»РµРЅС‹ Data Driven Рё Unit-СЌРєРѕРЅРѕРјРёРєРѕР№ Рё РЅР°С†РµР»РµРЅС‹ РЅР° СЃРѕР·РґР°РЅРёРµ СЂР°Р±РѕС‚Р°СЋС‰РµР№ СЂРµРєР»Р°РјС‹ РІР°С€РµРіРѕ Р±РёР·РЅРµСЃР° РІ РёРЅС‚РµСЂРЅРµС‚."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
