@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: "IQ-Analytics - Аналитика со смыслом."
-email: iq-analytics@mail.ru
+# email: iq-analytics@mail.ru
 description: "Мы вдохновлены Data Driven и Unit-экономикой и нацелены на создание работающей рекламы вашего бизнеса в интернет."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
