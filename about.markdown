@@ -3,7 +3,7 @@ layout: page
 title: Обо мне
 permalink: /about/
 ---
-
+<div style="text-align: justify">
 Здравствуйте!
 Меня зовут Александр.
 
@@ -19,3 +19,4 @@ permalink: /about/
 
 Предлагаю связаться:
 <IQ-Analytics@Mail.Ru>
+</div>
