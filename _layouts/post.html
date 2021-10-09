@@ -14,7 +14,7 @@ layout: default
       <span>[
         {% for tag in page.tags %}
         {% capture tag_name %}{{ tag }}{% endcapture %}
-        #<a class="u-url" href="/tag/{{ tag_name }}"><nobr>{{ tag_name }}</nobr>&nbsp;</a>
+        #<a class="u-url" href="/tag/{{ tag_name }}/"><nobr>{{ tag_name }}</nobr>&nbsp;</a>
         {% endfor %}
       ]</span>
       {%- if page.modified_date -%}
