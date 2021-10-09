@@ -30,8 +30,8 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 theme: minima
 plugins:
   - jekyll-seo-tag
-header_pages:
-  - about.md
+# header_pages:
+#   - about.md
 
 # Exclude from processing.
 # The following items will not be processed, by default.
