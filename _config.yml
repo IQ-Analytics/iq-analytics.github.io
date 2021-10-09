@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: "IQ Analytics - Аналитика. Со смыслом."
+title: "Аналитика. Со смыслом."
 # email: IQ-Analytics@Mail.Ru
 description: "Я вдохновлён Data Driven и Unit-экономикой и нацелен на создание работающей рекламы Вашего бизнеса в интернет."
 baseurl: "" # the subpath of your site, e.g. /blog
