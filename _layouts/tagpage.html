@@ -1,11 +1,11 @@
 ---
-layout: home
+layout: default
 ---
 <div class="post">
 <h1>Tag: {{ page.tag }}</h1>
 <ul>
 {% for post in site.tags[page.tag] %}
-  <li><a class="u-url" href="{{ post.url }}">{{ post.title }}</a> ({{ post.date | date_to_string }})</li>
+  <li><a class="u-url" href="{{ post.url }}">{{ post.title }}</a> ({{ post.date }})</li>
 {% endfor %}
 </ul>
 </div>
