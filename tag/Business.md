@@ -1,4 +1,4 @@
 ---
 layout: tagpage
-tag: Business-owner
+tag: Business
 ---
